@@ -3,9 +3,10 @@
 
 
 import ConfigParser
-import io
-import paho.mqtt.client as mqtt
-import json
+from hermes_python.hermes import Hermes
+from hermes_python.ontology import *
+import io, json
+#import paho.mqtt.client as mqtt
 from MagicMirror2.MM2_client import SnipsMM2
 
 CONFIGURATION_ENCODING_FORMAT = "utf-8"
