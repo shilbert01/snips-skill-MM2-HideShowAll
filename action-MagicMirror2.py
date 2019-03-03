@@ -45,7 +45,7 @@ def action_wrapper(hermes, intentMessage, conf):
     """
     intentname = intentMessage.intent.intent_name.split(':')[1]
 
-    MM2 = SnipsMM2(conf["secret"]["MagicMirror2_mqtt_ip"],conf["secret"]["site_id"])
+    MM2 = SnipsMM2(conf["secret"]["magicmirror2_mqtt_ip"],conf["secret"]["site_id"])
 
     niy_de = 'Das ist was schiefgegangen.'
     niy_en = 'Something went wrong.'
