@@ -1,18 +1,18 @@
-# Snips-MagicMirror2
+# Snips-skill-MM2-HideShowAll
 
-This is an app for [Snips.ai](https://snips.ai/) that allows the user to hide, show and move modules on [MagicMirror²](https://github.com/MichMich/MagicMirror). 
+This is an app for [Snips.ai](https://snips.ai/) that allows the user to hide, show all modules on [MagicMirror²](https://github.com/MichMich/MagicMirror). 
 
-[demonstration video german](https://www.youtube.com/watch?v=09XWlDiJ6dM)
+It is based on the [hide, show, move module](https://github.com/maxbachmann-snips/MM2-HideShowMove) by maxbachmann
 
 ## Installation 
-The following instructions assume an installation according to [this](https://gitlab.com/CaptnsTech/mmm-snipshideshow) guide. 
+The following instructions assume an installation according to [this](https://github.com/maxbachmann-magicmirror2/MMM-HideShowMove) guide.
 
 The app is avaible in the skill store and needs to be added to a assistant in the according language. A instruction on how to setup a assistant and add a app can be found [here](https://snips.gitbook.io/getting-started/install-an-assistant)
 The app is currently avaible in following languages:
 
 | language  | link to the app in the skill store  |
 |---|---|
-| `German`  | [MMM-SnipsHideShow]()|
+| `German`  | [MMM-SnipsHideShow](https://console.snips.ai/store/de/skill_kz69bqq1x4y)|
 
 ## Configuration 
 
@@ -36,5 +36,4 @@ Please keep the following in mind:
 
 
 ## Planned
-1. add more supported modules
-2. english Version
+1. english Version
