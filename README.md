@@ -36,4 +36,4 @@ Please keep the following in mind:
 
 
 ## Planned
-1. english Version
+1. English version
